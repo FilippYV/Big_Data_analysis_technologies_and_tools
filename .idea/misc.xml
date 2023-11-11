@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (Big_Data_analysis_technologies_and_tools)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Big_Data_analysis_technologies_and_tools)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Big_Data_analysis_technologies_and_tool)" project-jdk-type="Python SDK" />
   <component name="PyPackaging">
     <option name="earlyReleasesAsUpgrades" value="true" />
   </component>
